@@ -1,6 +1,12 @@
 # shopping_app
 
-A new Flutter project.
+A simple Flutter app built using Material 3 design principles. It features:
+
+Shopping List: Browse and explore a curated list of products.
+Product Details: View detailed information about each product, including images and descriptions.
+Cart Management: Add and remove items from your cart with ease.
+Cart Updates: Real-time updates to your cart total as you add or remove items.
+This app is a frontend-focused project, showcasing the capabilities of Flutter and Material 3 for creating visually appealing and user-friendly shopping experiences.
 
 ## Getting Started
 
