@@ -1,6 +1,6 @@
 # shopping_app
 
-A simple Flutter app built using Material 3 design principles. It features:
+A simple Flutter app built using Material 3 design principles.
 
 - Shopping List: Browse and explore a curated list of products.
 - Product Details: View detailed information about each product, including images and descriptions.
